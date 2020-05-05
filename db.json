@@ -1,4 +1,5 @@
-[
+{
+    "films":[
     {
         "title": "A New Hope",
         "director": "George Lucas",
@@ -53,4 +54,5 @@
         "release_date": "2019-12-16",
         "opening_crawl": "The dead speak! The galaxy..."
     }
-]
+    ]
+}
