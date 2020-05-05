@@ -3,55 +3,55 @@
     {
         "title": "A New Hope",
         "director": "George Lucas",
-	    "release_date": "1977-05-25",
+	    "year": "1977",
         "description": "It is a period of civil war..."
     },
     {
         "title": "The Empire Strikes Back",
         "director": "Irvin Kershner",
-	    "release_date": "1980-05-17",
+	    "year": "1980",
         "description": "It is a dark time for the..."
     },
     {
         "title": "Return of the Jedi",
         "director": "Richard Marquand",
-	    "release_date": "1983-05-25",
+        "year": "1983",
         "description": "Luke Skywalker has returned to..."
     },
     {
         "title": "The Phantom Menace",
         "director": "George Lucas",
-	    "release_date": "1999-05-19",
+	    "year": "1999",
         "description": "Turmoil has engulfed the..."
     },
     {
         "title": "Attack of the Clones",
         "director": "George Lucas",
-	    "release_date": "2002-05-16",
+	    "year": "2002",
         "description": "There is unrest in the Galactic..."
     },
     {
         "title": "Revenge of the Sith",
         "director": "George Lucas",
-	    "release_date": "2005-05-19",
+	    "year": "2005",
         "description": "War! The Republic is crumbling..."
     },
     {
         "title": "The Force Awakens",
         "director": "J. J. Abrams",
-	    "release_date": "2015-12-14",
+	    "year": "2015",
         "description": "Luke Skywalker has vanished..."
     },
     {
         "title": "The Last Jedi",
         "director": "Rian Johnson",
-        "release_date": "2017-12-15",
+        "year": "2017",
         "description": "The FIRST ORDER reigns..."
     },
     {
         "title": "The Rise of Skywalker",
         "director": "J. J. Abrams",
-        "release_date": "2019-12-16",
+        "year": "2019",
         "description": "The dead speak! The galaxy..."
     }
     ]
