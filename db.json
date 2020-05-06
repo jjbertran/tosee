@@ -4,55 +4,64 @@
         "title": "A New Hope",
         "director": "George Lucas",
 	    "year": "1977",
-        "description": "It is a period of civil war..."
+        "description": "It is a period of civil war...",
+        "website": "https://www.imdb.com/title/tt0076759"
     },
     {
         "title": "The Empire Strikes Back",
         "director": "Irvin Kershner",
 	    "year": "1980",
-        "description": "It is a dark time for the..."
+        "description": "It is a dark time for the...",
+        "website": "https://www.imdb.com/title/tt0080684"
     },
     {
         "title": "Return of the Jedi",
         "director": "Richard Marquand",
         "year": "1983",
-        "description": "Luke Skywalker has returned to..."
+        "description": "Luke Skywalker has returned to...",
+        "website": "https://www.imdb.com/title/tt0086190"
     },
     {
         "title": "The Phantom Menace",
         "director": "George Lucas",
 	    "year": "1999",
-        "description": "Turmoil has engulfed the..."
+        "description": "Turmoil has engulfed the...",
+        "website": "https://www.imdb.com/title/tt0120915"
     },
     {
         "title": "Attack of the Clones",
         "director": "George Lucas",
 	    "year": "2002",
-        "description": "There is unrest in the Galactic..."
+        "description": "There is unrest in the Galactic...",
+        "website": "https://www.imdb.com/title/tt0121765"
     },
     {
         "title": "Revenge of the Sith",
         "director": "George Lucas",
 	    "year": "2005",
-        "description": "War! The Republic is crumbling..."
+        "description": "War! The Republic is crumbling...",
+        "website": "https://www.imdb.com/title/tt0121766"
     },
     {
         "title": "The Force Awakens",
         "director": "J. J. Abrams",
 	    "year": "2015",
-        "description": "Luke Skywalker has vanished..."
+        "description": "Luke Skywalker has vanished...",
+        "website": "https://www.imdb.com/title/tt5376732"
     },
     {
         "title": "The Last Jedi",
         "director": "Rian Johnson",
         "year": "2017",
-        "description": "The FIRST ORDER reigns..."
+        "description": "The FIRST ORDER reigns...",
+        "website": "https://www.imdb.com/title/tt2527336"
     },
     {
         "title": "The Rise of Skywalker",
         "director": "J. J. Abrams",
         "year": "2019",
-        "description": "The dead speak! The galaxy..."
+        "description": "The dead speak! The galaxy...",
+        "website": "https://www.imdb.com/title/tt2527338"
     }
     ]
 }
